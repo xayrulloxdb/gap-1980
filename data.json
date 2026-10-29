@@ -3,12 +3,12 @@
  "amount": 150000,
  "members": [
   {
-   "id": "3vo3hc1",
-   "name": "Ойбек"
-  },
-  {
    "id": "forvefu",
    "name": "Бахром"
+  },
+  {
+   "id": "3vo3hc1",
+   "name": "Ойбек"
   },
   {
    "id": "ao7wrth",
@@ -55,7 +55,7 @@
    "name": "Отабек"
   }
  ],
- "current": 0,
+ "current": 1,
  "round": 2,
  "paid": {},
  "place": "",
