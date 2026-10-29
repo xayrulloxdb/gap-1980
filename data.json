@@ -55,24 +55,37 @@
    "name": "Отабек"
   }
  ],
- "current": 0,
- "round": 1,
- "paid": {
-  "3vo3hc1": true,
-  "ao7wrth": true,
-  "kgaifk4": true,
-  "2r93giu": true,
-  "e2ynbll": true,
-  "7c7xnp3": true,
-  "bbwh4qg": true,
-  "jm85vck": true,
-  "qq8ptrt": true,
-  "efsevly": true,
-  "54ruc8d": true,
-  "ayusyi0": true
- },
+ "current": 1,
+ "round": 2,
+ "paid": {},
  "place": "",
- "history": [],
+ "history": [
+  {
+   "round": 1,
+   "rid": "forvefu",
+   "name": "Бахром",
+   "cycle": 0,
+   "amount": 150000,
+   "total": 1800000,
+   "paidNames": [
+    "Ойбек",
+    "Алишер",
+    "Уктам",
+    "Акмал",
+    "Сохоб",
+    "Бахтиёр",
+    "Хасан",
+    "Шариф",
+    "Исмадиёр",
+    "Акбар",
+    "Хабиб",
+    "Отабек"
+   ],
+   "unpaid": [],
+   "place": "",
+   "date": "29.10.2026"
+  }
+ ],
  "weddings": [],
  "archive": [
   {
