@@ -57,7 +57,10 @@
  ],
  "current": 1,
  "round": 2,
- "paid": {},
+ "paid": {
+  "forvefu": true,
+  "ao7wrth": true
+ },
  "place": "",
  "history": [
   {
