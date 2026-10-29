@@ -3,12 +3,12 @@
  "amount": 150000,
  "members": [
   {
-   "id": "ao7wrth",
-   "name": "Алишер"
-  },
-  {
    "id": "3vo3hc1",
    "name": "Ойбек"
+  },
+  {
+   "id": "ao7wrth",
+   "name": "Алишер"
   },
   {
    "id": "kgaifk4",
@@ -55,7 +55,7 @@
    "name": "Отабек"
   }
  ],
- "current": 1,
+ "current": 0,
  "round": 2,
  "paid": {},
  "place": "",
