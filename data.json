@@ -55,15 +55,38 @@
    "name": "Отабек"
   }
  ],
- "current": 1,
- "round": 1,
- "paid": {
-  "ayusyi0": true,
-  "2r93giu": true,
-  "bbwh4qg": true
- },
- "place": "Уйда",
- "history": [],
+ "current": 2,
+ "round": 2,
+ "paid": {},
+ "place": "",
+ "history": [
+  {
+   "round": 1,
+   "rid": "ao7wrth",
+   "name": "Алишер",
+   "cycle": 0,
+   "amount": 150000,
+   "total": 450000,
+   "paidNames": [
+    "Акмал",
+    "Хасан",
+    "Отабек"
+   ],
+   "unpaid": [
+    "Уктам",
+    "Ойбек",
+    "Сохоб",
+    "Бахтиёр",
+    "Бахром",
+    "Шариф",
+    "Исмадиёр",
+    "Акбар",
+    "Хабиб"
+   ],
+   "place": "Уйда",
+   "date": "29.10.2026"
+  }
+ ],
  "weddings": [],
  "archive": [
   {
