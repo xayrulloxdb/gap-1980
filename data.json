@@ -11,12 +11,12 @@
    "name": "Ойбек"
   },
   {
-   "id": "ao7wrth",
-   "name": "Алишер"
-  },
-  {
    "id": "kgaifk4",
    "name": "Уктам"
+  },
+  {
+   "id": "ao7wrth",
+   "name": "Алишер"
   },
   {
    "id": "2r93giu",
@@ -55,7 +55,7 @@
    "name": "Отабек"
   }
  ],
- "current": 2,
+ "current": 3,
  "round": 3,
  "paid": {},
  "place": "",
