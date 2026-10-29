@@ -57,7 +57,12 @@
  ],
  "current": 0,
  "round": 1,
- "paid": {},
+ "paid": {
+  "3vo3hc1": true,
+  "ao7wrth": true,
+  "kgaifk4": true,
+  "2r93giu": true
+ },
  "place": "",
  "history": [],
  "weddings": [],
