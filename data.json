@@ -1,0 +1,92 @@
+{
+ "name": "Синфдошлар гапи",
+ "amount": 150000,
+ "members": [
+  {
+   "id": "kgaifk4",
+   "name": "Уктам"
+  },
+  {
+   "id": "ao7wrth",
+   "name": "Алишер"
+  },
+  {
+   "id": "3vo3hc1",
+   "name": "Ойбек"
+  },
+  {
+   "id": "2r93giu",
+   "name": "Акмал"
+  },
+  {
+   "id": "e2ynbll",
+   "name": "Сохоб"
+  },
+  {
+   "id": "7c7xnp3",
+   "name": "Бахтиёр"
+  },
+  {
+   "id": "bbwh4qg",
+   "name": "Хасан"
+  },
+  {
+   "id": "forvefu",
+   "name": "Бахром"
+  },
+  {
+   "id": "jm85vck",
+   "name": "Шариф"
+  },
+  {
+   "id": "qq8ptrt",
+   "name": "Исмадиёр"
+  },
+  {
+   "id": "efsevly",
+   "name": "Акбар"
+  },
+  {
+   "id": "54ruc8d",
+   "name": "Хабиб"
+  },
+  {
+   "id": "ayusyi0",
+   "name": "Отабек"
+  }
+ ],
+ "current": 1,
+ "round": 1,
+ "paid": {},
+ "place": "Уйда",
+ "history": [],
+ "weddings": [],
+ "archive": [
+  {
+   "at": "2026-10-29T15:17:39.869Z",
+   "round": 3,
+   "history": [
+    {
+     "cycle": 0,
+     "date": "26.10.2026",
+     "name": "Алишер",
+     "rid": "ao7wrth",
+     "round": 1,
+     "total": 1800000,
+     "unpaid": []
+    },
+    {
+     "cycle": 0,
+     "date": "26.10.2026",
+     "name": "Уктам",
+     "rid": "kgaifk4",
+     "round": 2,
+     "total": 1650000,
+     "unpaid": [
+      "Алишер"
+     ]
+    }
+   ]
+  }
+ ]
+}
