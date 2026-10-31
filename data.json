@@ -57,7 +57,9 @@
  ],
  "current": 2,
  "round": 3,
- "paid": {},
+ "paid": {
+  "ayusyi0": true
+ },
  "place": "",
  "history": [
   {
