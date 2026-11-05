@@ -57,7 +57,13 @@
  ],
  "current": 3,
  "round": 4,
- "paid": {},
+ "paid": {
+  "forvefu": true,
+  "2r93giu": true,
+  "kgaifk4": true,
+  "e2ynbll": true,
+  "7c7xnp3": true
+ },
  "place": "",
  "history": [
   {
