@@ -55,16 +55,9 @@
    "name": "Отабек"
   }
  ],
- "current": 3,
- "round": 4,
- "paid": {
-  "forvefu": true,
-  "2r93giu": true,
-  "kgaifk4": true,
-  "e2ynbll": true,
-  "7c7xnp3": true,
-  "qq8ptrt": true
- },
+ "current": 4,
+ "round": 5,
+ "paid": {},
  "place": "",
  "history": [
   {
@@ -142,6 +135,32 @@
    ],
    "place": "",
    "date": "31.10.2026"
+  },
+  {
+   "round": 4,
+   "rid": "ao7wrth",
+   "name": "Алишер",
+   "cycle": 0,
+   "amount": 150000,
+   "total": 900000,
+   "paidNames": [
+    "Бахром",
+    "Акмал",
+    "Уктам",
+    "Сохоб",
+    "Бахтиёр",
+    "Исмадиёр"
+   ],
+   "unpaid": [
+    "Ойбек",
+    "Хасан",
+    "Шариф",
+    "Акбар",
+    "Хабиб",
+    "Отабек"
+   ],
+   "place": "",
+   "date": "05.11.2026"
   }
  ],
  "weddings": [],
