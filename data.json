@@ -1,7 +1,12 @@
 {
  "name": "Синфдошлар гапи",
  "amount": 150000,
- "members": [],
+ "members": [
+  {
+   "id": "5wkek5r",
+   "name": "Алишер"
+  }
+ ],
  "current": 0,
  "round": 1,
  "paid": {},
