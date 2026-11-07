@@ -55,24 +55,37 @@
    "name": "Исмадиёр"
   }
  ],
- "current": 0,
- "round": 1,
- "paid": {
-  "vvacbbw": true,
-  "8p7zlr0": true,
-  "5wkek5r": true,
-  "y3i8frl": true,
-  "lipogzn": true,
-  "ixtw6q0": true,
-  "lsjbmot": true,
-  "v8zxlyr": true,
-  "0kekc5p": true,
-  "8rjnrk5": true,
-  "njhdg6i": true,
-  "zrdoofa": true
- },
+ "current": 1,
+ "round": 2,
+ "paid": {},
  "place": "",
- "history": [],
+ "history": [
+  {
+   "round": 1,
+   "rid": "0gkv2dm",
+   "name": "Бахром",
+   "cycle": 0,
+   "amount": 150000,
+   "total": 1800000,
+   "paidNames": [
+    "Ойбек",
+    "Акмал",
+    "Алишер",
+    "Бахтиёр",
+    "Сохоб",
+    "Уктам",
+    "Отабек",
+    "Акбар",
+    "Хабиб",
+    "Шариф",
+    "Хасан",
+    "Исмадиёр"
+   ],
+   "unpaid": [],
+   "place": "",
+   "date": "07.11.2026"
+  }
+ ],
  "weddings": [],
  "archive": [
   {
