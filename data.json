@@ -55,20 +55,9 @@
    "name": "Исмадиёр"
   }
  ],
- "current": 2,
- "round": 3,
- "paid": {
-  "lipogzn": true,
-  "8rjnrk5": true,
-  "0gkv2dm": true,
-  "vvacbbw": true,
-  "ixtw6q0": true,
-  "5wkek5r": true,
-  "v8zxlyr": true,
-  "y3i8frl": true,
-  "lsjbmot": true,
-  "zrdoofa": true
- },
+ "current": 3,
+ "round": 4,
+ "paid": {},
  "place": "",
  "history": [
   {
@@ -118,6 +107,32 @@
     "Исмадиёр"
    ],
    "unpaid": [],
+   "place": "",
+   "date": "07.11.2026"
+  },
+  {
+   "round": 3,
+   "rid": "8p7zlr0",
+   "name": "Акмал",
+   "cycle": 0,
+   "amount": 150000,
+   "total": 1500000,
+   "paidNames": [
+    "Бахром",
+    "Ойбек",
+    "Алишер",
+    "Бахтиёр",
+    "Сохоб",
+    "Уктам",
+    "Отабек",
+    "Акбар",
+    "Шариф",
+    "Исмадиёр"
+   ],
+   "unpaid": [
+    "Хабиб",
+    "Хасан"
+   ],
    "place": "",
    "date": "07.11.2026"
   }
