@@ -57,7 +57,9 @@
  ],
  "current": 3,
  "round": 4,
- "paid": {},
+ "paid": {
+  "0gkv2dm": true
+ },
  "place": "",
  "history": [
   {
